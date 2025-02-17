@@ -1,0 +1,12 @@
+#name-input {  
+    width: 360px; /* Встановлення ширини інпуту */  
+    height: 40px; /* Встановлення висоти інпуту */  
+    border: 1px solid #808080; /* Колір рамки */  
+    border-radius: 4px; /* Скруглення кутів */  
+    padding: 8px; /* Внутрішній відступ */  
+    font-size: 16px; /* Розмір шрифту */  
+}  
+
+h1 {  
+    font-family: Montserrat, sans-serif; /* Шрифт заголовка */  
+}  
